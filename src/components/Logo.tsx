@@ -11,7 +11,7 @@ const Logo: React.FC<LogoProps> = ({ colorClass = 'text-blue-600', withText = tr
     <div className="flex items-center gap-2">
       <Activity className={`w-8 h-8 ${colorClass}`} />
       {withText && (
-        <span className={`font-bold text-xl ${colorClass}`}>FootballConnect</span>
+        <span className={`font-bold text-xl ${colorClass}`}>futbolconnect</span>
       )}
     </div>
   );

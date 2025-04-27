@@ -45,7 +45,7 @@ export const testimonials: TestimonialType[] = [
     name: "Marco Silva",
     role: "Sporting Director",
     company: "FC Valencia",
-    content: "Football Connect has transformed how we approach the transfer market. We've completed three significant signings that wouldn't have been possible through traditional channels.",
+    content: "futbol Connect has transformed how we approach the transfer market. We've completed three significant signings that wouldn't have been possible through traditional channels.",
     image: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
@@ -61,7 +61,7 @@ export const testimonials: TestimonialType[] = [
     name: "Jean-Pierre Dumont",
     role: "Technical Director",
     company: "AS Monaco",
-    content: "Football Connect has become an essential tool for our technical department. The analytics and direct communication channels have streamlined our entire transfer process.",
+    content: "futbol Connect has become an essential tool for our technical department. The analytics and direct communication channels have streamlined our entire transfer process.",
     image: "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
 ];

@@ -40,7 +40,7 @@ const HowItWorks: React.FC = () => {
         <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 items-center">
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">
-              How Football Connect Works
+              How futbol Connect Works
             </h2>
             <p className="text-lg text-slate-600 mb-8">
               Our platform streamlines the entire transfer process from initial discovery

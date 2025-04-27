@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl text-slate-300 mb-8 max-w-2xl">
-            Football Connect streamlines the transfer process by connecting clubs, 
+            futbol Connect streamlines the transfer process by connecting clubs, 
             scouts, and agents directly, eliminating intermediaries and accelerating deals.
           </p>
           

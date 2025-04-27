@@ -9,7 +9,7 @@ const Stats: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">Global Network and Impact</h2>
           <p className="max-w-2xl mx-auto text-blue-100">
-            Football Connect has become the leading platform for clubs worldwide, 
+            Futbol Connect has become the leading platform for clubs worldwide, 
             facilitating transfers across all levels of professional football.
           </p>
         </div>

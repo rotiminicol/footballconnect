@@ -128,7 +128,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-slate-700 mt-12 pt-8 text-center text-slate-400">
-          <p>© {currentYear} Football Connect. All rights reserved.</p>
+          <p>© {currentYear} Futbol Connect. All rights reserved.</p>
         </div>
       </div>
     </footer>

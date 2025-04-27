@@ -10,7 +10,7 @@ const CTA: React.FC = () => {
             Ready to Transform Your Transfer Strategy?
           </h2>
           <p className="text-xl text-slate-300 mb-10 max-w-2xl mx-auto">
-            Join over 800 clubs worldwide that are already using Football Connect
+            Join over 800 clubs worldwide that are already using futbol Connect
             to revolutionize their transfer approach.
           </p>
           
